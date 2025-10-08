@@ -41,6 +41,9 @@
   </tr>
   <tr>
     <td>🏆 <b>GitHub Streak</b></td>
+    <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pathma2005&theme=tokyonight" /></td>
   </tr>
 </table>
