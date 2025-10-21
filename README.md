@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Full Stack Development, REST APIs, and MERN Stack Projects**
 
-- 📫 How to reach me **📧 pathmasri1372005@gmail.com**
 
 - ⚡ Fun fact **⚡ My favorite runtime error is “It finally worked!”**
 
