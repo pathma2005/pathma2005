@@ -1,7 +1,6 @@
 <h1 align="center">🌟 Hi 👋, I'm Pathmasri E</h1>
 <h3 align="center">🚀 Aspiring Full Stack Web Developer | Learning MERN Stack | Passionate About Building Scalable Web Applications</h3>
 
-- 🔭 I’m currently working on [Automatic Question Paper Generator]https://github.com/pathma2005/E-commerce-website.git
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB, and Advanced JavaScript**
 
